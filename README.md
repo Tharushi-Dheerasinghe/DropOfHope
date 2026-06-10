@@ -1250,18 +1250,6 @@ http://localhost/lifelink/
 
 ---
 
-## Group Members
-
-| No. | Name | Student ID |
-|-----|------|------------|
-| 1 | [Member 1 Name] | [Student ID] |
-| 2 | [Member 2 Name] | [Student ID] |
-| 3 | [Member 3 Name] | [Student ID] |
-| 4 | [Member 4 Name] | [Student ID] |
-| 5 | [Member 5 Name] | [Student ID] |
-
----
-
 **Project:** LifeLink - Blood Donation Network  
 **Course:** COSC 31103 / BECS 31233 - Web & Internet Technologies  
 **Department:** Department of Statistics & Computer Science  
